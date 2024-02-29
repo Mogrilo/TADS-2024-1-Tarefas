@@ -7,7 +7,7 @@ public class ExerciciosTADS {
         float temperaturaC;
         float temperaturaF;
 
-        System.out.println("digite a temperatura em graus Celsius : ");
+        System.out.println("digite a temperatura em graus Celsius: ");
         temperaturaC = in.nextFloat(); 
         temperaturaF = (9*temperaturaC/5 + 32); 
 
