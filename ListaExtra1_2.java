@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ListaExtra2_1 {
+public class ListaExtra1_2 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
 
